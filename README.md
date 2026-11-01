@@ -1,4 +1,4 @@
-# dsh-persona-deck（人设卡组）
+# dsh-persona-deck（人设卡组）【dsh-soul-md的附属插件】
 
 主要负责生成角色人设提示词。在会话里说一句「生成亚丝娜的人设」就行。
 
